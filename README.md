@@ -1,7 +1,7 @@
 # Dockerized
 
 All the software contained in this directory can be run in a dockerized RMI oriented python3 distribution:
-`mastrogiovanni/rmi-python3`.
+`mrigroupopbg/mri-python3`.
 
 Any script has its own `launch` bash script
 
